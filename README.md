@@ -1,4 +1,4 @@
-<iframe src="https://www.youtube.com/watch/embed/G6yC4KXGixE" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://www.youtube.com/embed/G6yC4KXGixE" width="100%" height="600px" style="border:none;"></iframe>
 
 
                                       1. Challenge
